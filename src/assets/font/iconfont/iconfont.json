@@ -1,0 +1,100 @@
+{
+  "id": "2367952",
+  "name": "supermarket",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "126027",
+      "name": "gouxuan",
+      "font_class": "gouxuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7487613",
+      "name": "gou-02",
+      "font_class": "gou-",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "7090071",
+      "name": "尾巴箭头上",
+      "font_class": "weibajiantoushang",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "15922146",
+      "name": "shoucang",
+      "font_class": "shoucang1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "572582",
+      "name": "fenleishousuo",
+      "font_class": "fenleishousuo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "973179",
+      "name": "shoucang",
+      "font_class": "shoucang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1030976",
+      "name": "shouye",
+      "font_class": "shouye",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1327478",
+      "name": "fenlei",
+      "font_class": "fenlei",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4640806",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5269217",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "8521263",
+      "name": "kefu",
+      "font_class": "kefu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "11459717",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14220845",
+      "name": "店铺评分",
+      "font_class": "dianpupingfen",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
